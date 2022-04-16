@@ -53,3 +53,6 @@ if(savedToDos){
     parsedToDos.forEach(paintToDo);
     // parsedToDos.forEach((item)=>console.log(`Test ${item}`));
 }
+
+// console.log(document);
+// console.log(window);
